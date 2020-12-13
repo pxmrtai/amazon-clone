@@ -48,7 +48,10 @@
 .header__optionLineTwo{
     font-size: 13px;
     font-weight: 800;
+    color: white;
+    border: none;
 }
+
 .header__optionBasket{
     display: flex;
     align-items: center;
